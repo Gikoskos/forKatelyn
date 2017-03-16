@@ -1,0 +1,10 @@
+/***********************************************\
+*                     res.rc                    *
+*           George Koskeridis (C) 2016          *
+\***********************************************/
+
+#include "common.h"
+
+
+IDI_FORKATELYN64_ICON ICON "for_katelyn64.ico"
+IDI_FORKATELYN32_ICON ICON "for_katelyn32.ico"
